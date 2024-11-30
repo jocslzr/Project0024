@@ -12,3 +12,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/SpaceCraft/Textures/T_rough_met.uasset
+Content/SpaceCraft/Textures/T_rough_met_2.uasset
+Content/SpaceSkyboxCollection_4/Textures/Skybox_2/T_Cube_Skybox_2.uasset
