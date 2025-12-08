@@ -22,6 +22,11 @@
 		{
 			"Name": "GameplayStateTree",
 			"Enabled": true
+		},
+		{
+			"Name": "ChainPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/96eb704f096d401ca29a7efbfa362ec7"
 		}
 	]
 }
