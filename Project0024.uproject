@@ -27,6 +27,11 @@
 			"Name": "ChainPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/96eb704f096d401ca29a7efbfa362ec7"
+		},
+		{
+			"Name": "AdvanceSplineTool",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bc03054b870c4162a9454b076f4d4e9d"
 		}
 	]
 }
